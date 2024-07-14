@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1697378263 source:d:\alvan\kliah\sem3\strukdat\tp05\main.cpp
+	<iostream>
+	"sll.h"
+
+1697383125 d:\alvan\kliah\sem3\strukdat\tp05\sll.h
+	<iostream>
+
+1697378352 source:d:\alvan\kliah\sem3\strukdat\tp05\sll.cpp
+	<iostream>
+	"sll.h"
+

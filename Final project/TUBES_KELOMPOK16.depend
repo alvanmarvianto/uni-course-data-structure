@@ -1,0 +1,34 @@
+# depslib dependency file v1.0
+1704300099 source:d:\alvan\kliah\sem3\strukdat\tubes_kelompok16\main.cpp
+	"listKonsumsi.h"
+	"listDiet.h"
+	"listRelasi.h"
+	"algoritma.h"
+
+1704124305 source:d:\alvan\kliah\sem3\strukdat\tubes_kelompok16\listdiet.cpp
+	"listDiet.h"
+
+1704380355 d:\alvan\kliah\sem3\strukdat\tubes_kelompok16\listdiet.h
+	"listRelasi.h"
+	<iostream>
+
+1704125985 d:\alvan\kliah\sem3\strukdat\tubes_kelompok16\listrelasi.h
+	"listKonsumsi.h"
+	<iostream>
+
+1704380355 d:\alvan\kliah\sem3\strukdat\tubes_kelompok16\listkonsumsi.h
+	<iostream>
+
+1704124314 source:d:\alvan\kliah\sem3\strukdat\tubes_kelompok16\listkonsumsi.cpp
+	"listKonsumsi.h"
+
+1704125985 source:d:\alvan\kliah\sem3\strukdat\tubes_kelompok16\listrelasi.cpp
+	"listRelasi.h"
+
+1704111914 d:\alvan\kliah\sem3\strukdat\tubes_kelompok16\algoritma.h
+	"listDiet.h"
+	<iostream>
+
+1704419622 source:d:\alvan\kliah\sem3\strukdat\tubes_kelompok16\algoritma.cpp
+	"algoritma.h"
+

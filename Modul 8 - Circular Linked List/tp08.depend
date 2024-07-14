@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1699195161 source:d:\alvan\kliah\sem3\strukdat\tp08\doublecircular.cpp
+	"doubleCircular.h"
+
+1699193162 d:\alvan\kliah\sem3\strukdat\tp08\doublecircular.h
+	<iostream>
+
+1699194067 source:d:\alvan\kliah\sem3\strukdat\tp08\main.cpp
+	<iostream>
+	"doubleCircular.h"
+

@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1696770641 source:d:\alvan\kliah\sem3\strukdat\tp04\list.cpp
+	<iostream>
+	"list.h"
+
+1696770641 d:\alvan\kliah\sem3\strukdat\tp04\list.h
+	<iostream>
+
+1696770438 source:d:\alvan\kliah\sem3\strukdat\tp04\main.cpp
+	<iostream>
+	"list.h"
+
+1696767610 d:\alvan\kliah\sem3\strukdat\tp04\list.cpp
+	<iostream>
+	"list.h"
+

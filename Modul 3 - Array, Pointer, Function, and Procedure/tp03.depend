@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1696764021 source:d:\alvan\kliah\sem3\strukdat\tp03\main.cpp
+	<iostream>
+	"kerucut.h"
+	"kerucut.cpp"
+
+1696176153 d:\alvan\kliah\sem3\strukdat\tp03\kerucut.h
+
+1696176827 d:\alvan\kliah\sem3\strukdat\tp03\kerucut.cpp
+	"kerucut.h"
+	<iostream>
+	<cmath>
+

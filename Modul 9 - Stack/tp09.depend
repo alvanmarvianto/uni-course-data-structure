@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1699717131 source:d:\alvan\kliah\sem3\strukdat\tp09\main.cpp
+	"stack.h"
+
+1699716681 d:\alvan\kliah\sem3\strukdat\tp09\stack.h
+	<iostream>
+
+1699716681 source:d:\alvan\kliah\sem3\strukdat\tp09\stack.cpp
+	"stack.h"
+

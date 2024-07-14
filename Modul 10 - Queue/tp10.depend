@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1700397972 source:d:\alvan\kliah\sem3\strukdat\tp10\main.cpp
+	"queue.h"
+
+1700397830 d:\alvan\kliah\sem3\strukdat\tp10\queue.h
+	<iostream>
+
+1700398048 source:d:\alvan\kliah\sem3\strukdat\tp10\queue.cpp
+	"queue.h"
+
